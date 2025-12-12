@@ -7,14 +7,14 @@ Practiced investigating emails using headers, URLs and attachments.
 
 ### Skills Learned
 
-- Email header analysis(Received headers, SPF, DKIM, DMARC check, Return path)
+- Email header analysis(Received headers, SPF, DKIM, DMARC check, Reply to and  Return path)
 - URL reputation analysis and sandboxing
 - Analyzed attachments using tools.
 - Documenting the collected artifacts and information about the investigation
 
 ### Tools Used
 
-- Virtual machine - Built a Vvm to analyze real phishing emails
+- Virtual machine - Built a VM to analyze real phishing emails
 - MX ToolBox - Analyzed headers using mx toolbox
 - Sublime Text - Understandind the headers
 - Cyberchef - Decoded the encoded contents like base64, quoted pritable and extracted urls from it
