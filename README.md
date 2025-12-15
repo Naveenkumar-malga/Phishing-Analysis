@@ -34,6 +34,7 @@ Checked the authentications results like SPF, DKIM, DMARC
 
 DNS lookup and IP information about sender address
 
+<img width="1920" height="1080" alt="VirtualBox_SOClab-Ubuntu_15_12_2025_19_01_59" src="https://github.com/user-attachments/assets/5c6ad6ef-3775-4ff6-ab87-d8761a2a384b" />
 
 
 <img width="1920" height="1080" alt="VirtualBox_SOClab-Ubuntu_09_12_2025_10_45_51" src="https://github.com/user-attachments/assets/f198b9ee-e8d8-4760-aa42-f6d2cc8c4284" />
@@ -47,7 +48,8 @@ Extracted the URLs from quoted printable encoded content
 <img width="1920" height="1080" alt="VirtualBox_SOClab-Ubuntu_10_12_2025_15_46_29" src="https://github.com/user-attachments/assets/f75d4da5-3b75-4702-ba23-4c5dc1ccd46c" />
 
 
-
+Url reutation in url void
+<img width="1920" height="1080" alt="VirtualBox_SOClab-Ubuntu_15_12_2025_19_12_21" src="https://github.com/user-attachments/assets/e58f7947-22a3-4506-bb20-308588a118d6" />
 
 
 
